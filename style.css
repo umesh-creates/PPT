@@ -276,7 +276,7 @@ button:hover{
     font-size: 3cqw;
     width: 47%;
     margin-top: 7cqw;
-    margin-left: 3cqw;
+    margin-left: 7%;
 }
 
 .slide3 ul li {
@@ -613,6 +613,9 @@ button:hover{
     margin-left: 6cqw;
     margin-top: 9cqw;
 }
+.slide5 .overlay .section2 ul{
+    margin-left: 8cqw;
+}
 
 .slide5 .overlay .section2 ul li {
     margin: 1cqw 4cqw 1cqw 0;
@@ -862,7 +865,7 @@ button:hover{
 .slide8 .section1 ul {
     font-size: 4cqw;
     color: white;
-    margin-left: 4cqw;
+    margin-left: 10cqw;
 }
 
 .slide8 .section1 ul li {
@@ -988,7 +991,7 @@ button:hover{
     right: 5cqw;
 }
 .slide9 ul{
-    margin-left: 4cqw;
+    margin-left: 8cqw;
 }
 .slide9 .contain .section2 .image .img {
     background-image: url(asserts/laptop\ work.jpg);
@@ -1225,7 +1228,7 @@ button:hover{
     font-size: 3.7cqw;
     position: absolute;
     top: 16cqw;
-    left: 2cqw;
+    left: 8.5cqw;
     list-style: none;
 }
 
